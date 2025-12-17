@@ -2,7 +2,7 @@
 <h3 align="center">AI & Machine Learning Developer 🤖</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Husan0308/Husan0308/main/machine_learning.jpg" width="120"/>
+  <img src="https://raw.githubusercontent.com/Husan0308/Husan0308/main/ml.jpg" width="120"/>
 </p>
 
 <p align="center">
